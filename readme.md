@@ -4,7 +4,7 @@ This is a console program which offers a classic 'tic-tac-toe' game experience, 
 
 ## Requirements
 
-- Interest in tic-tac-toe and/or in-console gamse
+- Interest in tic-tac-toe and/or in-console games
 - CMake 3.16
 - A C++ 23 compiler
 
